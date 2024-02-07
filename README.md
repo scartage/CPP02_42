@@ -14,3 +14,5 @@ comply with the C++98 standard.
 We are aware modern C++ is way different in a lot of aspects. So if you want to
 become a proficient C++ developer, it’s up to you to go further after the 42 Common
 Core!
+
+[Wiki Módulo 02](https://github.com/qingqingqingli/CPP/wiki/Module02)

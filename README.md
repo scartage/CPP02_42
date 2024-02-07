@@ -1,12 +1,16 @@
-La sobrecarga de operadores (Operator Overloading) en C++ es una característica del lenguaje que permite a los programadores definir o modificar el comportamiento de los operadores estándar (como +, -, ==, etc.) cuando se utilizan con objetos de clases definidas por el usuario. Esto hace que el código sea más intuitivo y legible, permitiendo que los objetos de tus clases interactúen mediante operadores comunes de una manera específica para su contexto.
+# C++ - Module 02
+## Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form
+### Summary:
+This document contains the exercises of Module 02 from C++ modules.
 
-#### Usos del Sobrecarga de Operadores
-La sobrecarga de operadores se utiliza en C++ para varios propósitos, incluyendo:
-
-- Realizar operaciones aritméticas con objetos de clases personalizadas, como sumar dos objetos de una clase Vector.
-- Comparar objetos para igualdad, desigualdad u otro tipo de comparaciones.
-- Acceder a elementos dentro de objetos compuestos, similar a cómo se acceden los elementos de un array o un mapa.
-- Incrementar o decrementar el valor de un objeto, como con iteradores o punteros inteligentes.
-- Entrada y salida de objetos mediante los operadores >> y << para lectura y escritura en flujos.
-
-Recuerda que la sobrecarga de operadores en C++ permite definir comportamientos personalizados para los operadores estándar cuando se utilizan con objetos de clases definidas por el usuario. Esto proporciona flexibilidad y facilidad de uso al interactuar con objetos de tus propias clases.
+### Introduction
+C++ is a general-purpose programming language created by Bjarne Stroustrup as an ex-
+tension of the C programming language, or "C with Classes" (source: Wikipedia).
+The goal of these modules is to introduce you to Object-Oriented Programming.
+This will be the starting point of your C++ journey. Many languages are recommended
+to learn OOP. We decided to choose C++ since it’s derived from your old friend C.
+Because this is a complex language, and in order to keep things simple, your code will
+comply with the C++98 standard.
+We are aware modern C++ is way different in a lot of aspects. So if you want to
+become a proficient C++ developer, it’s up to you to go further after the 42 Common
+Core!
